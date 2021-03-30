@@ -1,0 +1,4 @@
+index.php 登入頁
+main.php 主頁
+logout.php 登出頁(main.php按登出後會跳轉到logout.php，然後會再馬上跳到index.php)
+g-callback.php和config.php是用來設定google授權的，所以可以不用理他
